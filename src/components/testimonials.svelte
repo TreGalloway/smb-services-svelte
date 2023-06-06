@@ -7,7 +7,7 @@
 	<h2 class="h2">Testimonials</h2>
 
 	<div class="grid grid-cols-1 md:grid-cols-3 gap-8 pt-6">
-		<div class="card" id="1">
+		<div class="card drop-shadow-md bg-gray-200 dark:shadow-md dark:shadow-slate-300/50" id="1">
 			<header class="card-header">
 				<div class="flex">
 					<Avatar
@@ -30,7 +30,7 @@
 			</footer>
 		</div>
 
-		<div class="card" id="2">
+		<div class="card drop-shadow-md bg-gray-200 dark:shadow-md dark:shadow-slate-300/50" id="2">
 			<header class="card-header">
 				<div class="flex">
 					<Avatar
@@ -53,7 +53,7 @@
 			</footer>
 		</div>
 
-		<div class="card" id="3">
+		<div class="card drop-shadow-md bg-gray-200 dark:shadow-md dark:shadow-slate-300/50" id="3">
 			<header class="card-header">
 				<div class="flex">
 					<Avatar
@@ -76,7 +76,7 @@
 			</footer>
 		</div>
 
-		<div class="card" id="4">
+		<div class="card drop-shadow-md bg-gray-200 dark:shadow-md dark:shadow-slate-300/50" id="4">
 			<header class="card-header">
 				<div class="flex">
 					<Avatar
@@ -99,7 +99,7 @@
 			</footer>
 		</div>
 
-		<div class="card" id="5">
+		<div class="card drop-shadow-md bg-gray-200 dark:shadow-md dark:shadow-slate-300/50" id="5">
 			<header class="card-header">
 				<div class="flex">
 					<Avatar
@@ -122,7 +122,7 @@
 			</footer>
 		</div>
 
-		<div class="card" id="6">
+		<div class="card drop-shadow-md bg-gray-200 dark:shadow-md dark:shadow-slate-300/50" id="6">
 			<header class="card-header">
 				<div class="flex">
 					<Avatar

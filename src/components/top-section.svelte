@@ -6,7 +6,7 @@
 
 <div>
 	<div class="">
-		<div class="card flex flex-wrap">
+		<div class=" flex flex-wrap">
 			<img
 				{src}
 				alt="outside of a house"

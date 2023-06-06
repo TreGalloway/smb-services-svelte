@@ -12,8 +12,8 @@
 <div class="pt-10">
 	<h2 class="h2">Our Services</h2>
 	<div class="grid grid-cols-1 md:grid-cols-3 md:gap-16">
-		<div class="card my-8">
-			<div class="card">
+		<div class="card my-8 drop-shadow-m dark:shadow-md dark:shadow-slate-400/50">
+			<div class="card bg-gray-200 dark:bg-zinc-800">
 				<header class="card-header">
 					<div class="flex">
 						<Icon src={WrenchScrewdriver} size="30" />
@@ -47,8 +47,8 @@
 				</footer>
 			</div>
 		</div>
-		<div class="card my-8">
-			<div class="card">
+		<div class="card my-8 drop-shadow-md dark:shadow-md dark:shadow-slate-400/50">
+			<div class="card bg-gray-200 dark:bg-zinc-800">
 				<header class="card-header">
 					<div class="flex">
 						<Icon src={HomeModern} size="30" />
@@ -82,8 +82,8 @@
 				</footer>
 			</div>
 		</div>
-		<div class="card my-8">
-			<div class="card">
+		<div class="card my-8 drop-shadow-md dark:shadow-md dark:shadow-slate-400/50">
+			<div class="card bg-gray-200 dark:bg-zinc-800">
 				<header class="card-header">
 					<div class="flex">
 						<Icon src={Cake} size="30" />
